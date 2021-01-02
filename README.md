@@ -1,4 +1,4 @@
-### Hi there 👋
+# G'day! <img src="https://raw.githubusercontent.com/ed-muthiah/ed-muthiah/master/wave.gif" width="30px">
 
 <!--
 **ed-muthiah/ed-muthiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
