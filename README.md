@@ -1,6 +1,7 @@
-# G'day! <img src="https://www.flaticon.com/svg/static/icons/svg/3802/3802110.svg" width="35px">
+# G'day! <img src="https://www.flaticon.com/svg/static/icons/svg/3802/3802110.svg" width="35px" style="vertical-align:top">
 
-## I'm Ed, a Machine Learning Engineer living in Melbourne, Australia 🦘:australia:, Australia Flag]currently working at BAE Systems. 
+
+## I'm Ed, a Machine Learning Engineer living in <img src="https://www.flaticon.com/svg/static/icons/svg/297/297039.svg" width="35px" style="vertical-align:top">currently working at BAE Systems. 
 
 ## I have an engineering degree and am currently pursuing my Master's in Machine Learning and Computer Vision at the Australian National University. 
 
