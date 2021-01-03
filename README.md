@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-👨‍🚀 I'm Ed, a Machine Learning Engineer living in Australia, currently working at BAE Systems. 🚀 <br> 🎓 Bachelor's in Engineering and now pursuing a Master's in Machine Learning and Computer Vision. 📚 <br> ❤️‍🔥 I'm passionate about production grade deep learning for for autonomous systems. 🤖🦾
+👨‍🚀 I'm Ed, a Machine Learning Engineer living in Australia, currently working at BAE Systems. 🚀 <br> 🎓 Bachelor's in Engineering and now pursuing a Master's in Machine Learning and Computer Vision. 📚 <br> ❤️‍🔥 I'm passionate about production grade deep learning for autonomous systems. 🤖🦾
   <p align="center">
     Connect with me via:
     <a href="https://www.linkedin.com/in/ed-muthiah/">
