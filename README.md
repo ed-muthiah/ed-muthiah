@@ -7,7 +7,17 @@
 </h1>
 
 <h4 align="center">
-I'm Ed, a Machine Learning Engineer living in Australia, currently working at BAE Systems. I did my Bachelor's in Engineering and I'm now pursuing a Master's in Machine Learning and Computer Vision at the Australian National University. I'm passionate about production grade deep learning for for autonomous systems. You can connect with me via: [LinkedIn] [Discord] [Gmail]
+I'm Ed, a Machine Learning Engineer living in Australia, currently working at BAE Systems. I did my Bachelor's in Engineering and I'm now pursuing a Master's in Machine Learning and Computer Vision at the Australian National University. I'm passionate about production grade deep learning for for autonomous systems. Connect with me via:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ed-muthiah/">
+    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/778083475790102548/">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+  <a href="http://%22mailto:ed.muthiah@gmail.com/?subject%20=%20G%27day%20Ed!&body%20=%20How%27re%20you%20going?%22">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </p>
 </h4>
 
 <h2 align="center">
