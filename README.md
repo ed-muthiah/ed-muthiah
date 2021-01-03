@@ -30,6 +30,7 @@
 </h2>
 
 <p align="center">
+  I'm no expert. Always learning. - <b> <em> Ars Longa. Vita Brevis. </em> </b> <br>
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
