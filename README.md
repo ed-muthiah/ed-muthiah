@@ -26,7 +26,7 @@
 </p>
 
 <h2 align="center">
-  My Technology Stack
+  Tools I'm using and learning
 </h2>
 
 <p align="center">
